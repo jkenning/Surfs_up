@@ -32,24 +32,24 @@ Figure 2. Plot of temperature data from station USC00519281
 
 # Results for June and December
 
-The date collumn of the measurements table in the SQLite database was then filtered to retrieve temperatures for June and Decemeber specifically to examine the data on a monthly basis and get a better idea of whether the business would be sustainable year round:
-
-![](https://github.com/jkenning/Surfs_up/blob/main/Resources/December_temps_df.PNG)
-
-Figure 3. Summary statistics for tempatures for the month of June
-
-![](https://github.com/jkenning/Surfs_up/blob/main/Resources/December_temperatures.PNG)
-
-Figure 4. Plot of temperatures for the month of June 
+The date collumn of the measurements table in the SQLite database was then filtered to retrieve temperatures for June and Decemeber specifically to get a better idea of whether the business would be sustainable in both the summer and winter year-round:
 
 ![](https://github.com/jkenning/Surfs_up/blob/main/Resources/June_temps_df.PNG)
 
-Figure 5. Summary statistics for tempatures for the month of Decemeber
+Figure 3. Summary statistics for tempatures for the month of June
 
 ![](https://github.com/jkenning/Surfs_up/blob/main/Resources/June_temperatures.PNG)
+
+Figure 4. Plot of temperatures for the month of June 
+
+![](https://github.com/jkenning/Surfs_up/blob/main/Resources/December_temps_df.PNG)
+
+Figure 5. Summary statistics for tempatures for the month of Decemeber
+
+![](https://github.com/jkenning/Surfs_up/blob/main/Resources/December_temperatures.PNG)
 
 Figure 6. Plot of temperatures for the month of December 
 
 Summary:
 
-* 
+* The average temperature is actually slightly higher in December (74.94 degrees) versus June (71.)
